@@ -1,0 +1,2 @@
+mecab-python3 == 0.996.2
+tqdm == 4.32.1
